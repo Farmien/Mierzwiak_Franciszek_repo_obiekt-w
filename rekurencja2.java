@@ -9,12 +9,10 @@ class Rekurencja2 {
 	
 	private static String wyswietlanieWyrazu(String wyraz){
 		if(wyraz.length() > 1){
-
 			return wyraz + "\n" + wyswietlanieWyrazu(wyraz.substring(0,wyraz.length()-1));
 		}
 		return wyraz;
 	}
-	
 	
 	private static int sumaKolejnychLiczb( int liczba ){
 		if(liczba > 0){
@@ -26,6 +24,7 @@ class Rekurencja2 {
 		System.out.println("Koniec rekurencji liczba = " + liczba);
 		return 0;
 	}
+	
 	//Silnia 7! = 7*6*5*4*3*2*1
 	private static int obliczanieSilni( int liczba ){
 		if(liczba > 1){
