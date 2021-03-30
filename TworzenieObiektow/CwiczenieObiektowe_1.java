@@ -9,9 +9,18 @@ class CwiczenieObiektowe_1{
 		
 		Kolo k1 = new Kolo(4);
 		System.out.println("Pole kola k1: "+k1.PoleK());
-		System.out.println("Obwod kola k1: "+k1.ObwK());	
+		System.out.println("Obwod kola k1: "+k1.ObwK()+"\n");	
+		
 		Kolo k2 = new Kolo(20);
 		System.out.println("Pole kola k2: "+k2.PoleK());
-		System.out.println("Obwod kola k2: "+k2.ObwK());
+		System.out.println("Obwod kola k2: "+k2.ObwK()+"\n");
+		
+		Kwadrat kw = new Kwadrat(7);
+		System.out.println("Pole kwadratu kw: "+kw.PoleKw());
+		System.out.println("Obwod kwadratu kw: "+kw.ObwKw()+"\n");
+		
+		Prostokat p = new Prostokat(9, 21);
+		System.out.println("Pole prostokata p: "+p.PoleP());
+		System.out.println("Obwod prostokata p: "+p.ObwP());
 	}
 }
