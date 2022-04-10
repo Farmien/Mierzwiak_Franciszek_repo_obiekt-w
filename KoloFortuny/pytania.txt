@@ -1,0 +1,45 @@
+matematyka;latwy;14+7*3;53;26;31;35;d
+matematyka;latwy;log5z25;2;1/3;4;-1;a
+matematyka;latwy;4,16,x,256 ile wynosi x;32;1/3;64;24;c
+matematyka;sredni;sinus z 30 stopni;1/2;pierwz3;pierzwz3/2;pierwz3/3;a
+matematyka;sredni;tangens z 45 stopni;1/2;pierwz3;pierzwz3/2;1;d
+matematyka;sredni;liczba 100^5*0,1^-6;10^13;10^16;10^-1;10^-30;b
+matematyka;trudny;liczba 78 stanowi 150% liczby c, liczba c jest rowna?;60;48;52;39;c
+matematyka;trudny;proste o rownaniach y=3x - 5 oraz y=((m-3)/2)*x = 9/2 sa rownlegly gdy;m=1;m=3;m=6;m=9;d
+matematyka;trudny;ile wynosi wyroznik trojmianu kwadratowego od 4x2-x-3;11;23;24;49;d
+biologia;latwy;ile jest zebow mlecznych;20;32;15;25;a
+biologia;latwy;splaszczona rura ze wzmocnionymi licznymi chrzastkami;pluca;tchawica;oskrzela;krtan;b
+biologia;latwy;ile chromosomow ma ziemniak;5;35;12;17;c
+biologia;sredni;zbudowane z aminokwasow sa;cukry;tluszcze;bialka;hemoglobina;c
+biologia;sredni;skutkiegiem niedoboru witaminy d jest;kurza slepota;krwotoki;choroba beri-beri;krzywica;d
+biologia;sredni;co barwi krew;homozygota;hemoglobina;heterozygota;owsiki;b
+biologia;trudny;cylindryczna wypustka cytoplazmatyczna, która stanowi przedłużenie ciała komórki nerwowej to ;dendryt;letito grube;jadro komorkowe;astma;a
+biologia;trudny;makroelementem nie jest;fosfor;siarka;jod;wapn;c
+biologia;trudny;enzymem tluszczow jest;lipaza;amylaza;pepsyna;proteazy;a
+chemia;latwy;dwutlenek wegla to: ;H2SO4;CO2;H2O;SO4;b
+chemia;latwy;zelazo to: ;Mg;S;Cl;Fe;d
+chemia;latwy;S to: ;wapn;fosfor;siarka;wegiel;c
+chemia;sredni;który z wymienionych przykladow jest zwiazkiem chemicznym?;Woda;siarka;zelazo;Deuter;a
+chemia;sredni;ktora z tych par pierwiastkow ktorych atomy w stanie podstawowym maja rozne liczby niesparowanych elektronow;krzem i tytan;siarka i tytan;krzem i żelazo;siarka i nikiel;c
+chemia;sredni;który z wymienionych przykladow NIE jest zwiazkiem chemicznym?;Woda;Celuloza;Spirytus;Deuter;d
+chemia;trudny;co to jest CH3OH?;Etanol;Metanol;Nitro;Paliwo lotnicze;b
+chemia;trudny;co to jest C3H8O3?;Glikol;Gliceryna;Etanol;Efedryna;c
+chemia;trudny;co to jest C10H15NO?;Efedryna;Gliceryna;Etanol;Paliwo lotnicze;a
+geografia;latwy;jaka jest stolica Polski?;Kozuchow;Zakecie;Przyborow;Warszawa;d
+geografia;latwy;jaka jest stolica USA?;Waszyngton;Chicago;Detrioit;Los Angeles;a
+geografia;latwy;jaka jest stolica Czech?;Praga;Prada;Proga;Preda;a
+geografia;sredni;jaka jest stolica Bulgarii?;Sofia;Maria;Leona;Indiana;b;
+geografia;sredni;jaka jest stolica Chorwacji?;Przedgrzeb;Pogrzeb;Zagrzeb;Grzeb;c
+geografia;sredni;jaka jest stolica Rumuni?;Bukareszt;Bugareszt;Bogareszt;Aresztbuk;a
+geografia;trudny;jaka jest stolica Nigerii?;Niamey;Numej;Nigerios;Lodz;a
+geografia;trudny;jaka jest stolica Sri Lanki?;Sri Kopne;Rinamo;Sri Dzajawardanapura Kotte;Sri Hejawanna De Kotte;c
+geografia;trudny;jaka jest stolica Madagaskaru?;Antananarywa;Antanananaryrywa;Antarywa;Antarywo;a
+historia;latwy;w ktorym roku wybuchla II WW;1939;1945;1900;1922;a
+historia;latwy;w ktorym roku wybuchla I WW;1951;1922;1902;1914;d
+historia;latwy;w ktorym roku wybuchlo powstanie listopadowe;1841;1822;1820;1830;d
+historia;sredni;w ktorym roku wybuchlo powstanie styczniowe;1834;1777;1863;1928;c
+historia;sredni;w ktorym roku wybuchlo powstanie krakowskie;1846;1822;1820;1830;a
+historia;sredni;w ktorym roku wybuchlo powstanie wielkopolskie;1896;1899;1918;1908;c
+historia;trudny;w ktorym roku odbyla sie bitwa pod raclawiacami;1534;1777;1863;1794;d
+historia;trudny;w ktorym roku odbyla sie bitwa pod maciejowicami;1646;1794;1820;1830;b
+historia;trudny;w ktorym roku odbyla sie bitwa pod wiedniem;1596;1683;1518;1208;b
