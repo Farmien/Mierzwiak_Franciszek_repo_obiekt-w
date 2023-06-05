@@ -1,0 +1,2 @@
+Wygrywa b3 z h23 posiadajac znak: X
+Wygrywa bbb z aaa posiadajac znak: X
