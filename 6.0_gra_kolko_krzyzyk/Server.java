@@ -46,7 +46,7 @@ public class Server{
                     input = in.readUTF();
                     tura = 0;
                     bulin = false;
-                    if(input.equals("q")){
+                    if(input.equals("q") || input.equals("gg")){
                         break;
                     }
                     for(int i=0;i<boardIndex.length;i++){
@@ -88,6 +88,7 @@ public class Server{
                             System.out.println("Wygrywa "+nazwaGracza+" z "+nazwaGracza2+" posiadajac znak: "+serverZnak);
                             out.writeUTF("Wygrywa "+nazwaGracza+" z "+nazwaGracza2+" posiadajac znak: "+serverZnak);
                             stf.saveToFile("Wygrywa "+nazwaGracza+" z "+nazwaGracza2+" posiadajac znak: "+serverZnak); 
+                            break;
                         }
                         board = boardIndex[0]+" | "+boardIndex[1]+" | "+boardIndex[2]+
                             "\n---------\n"+boardIndex[3]+" | "+boardIndex[4]+" | "+boardIndex[5]+

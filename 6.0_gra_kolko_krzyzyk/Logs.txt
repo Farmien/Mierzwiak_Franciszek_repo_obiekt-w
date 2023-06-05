@@ -1,2 +1,8 @@
 Wygrywa b3 z h23 posiadajac znak: X
 Wygrywa bbb z aaa posiadajac znak: X
+Wygrywa k222 z H23 posiadajac znak: X
+Wygrywa ko232 z hhh231 posiadajac znak: X
+Wygrywa 2137 z 900 posiadajac znak: X
+Wygrywa 222 z oooo posiadajac znak: X
+Wygrywa k z k posiadajac znak: X
+Wygrywa k z o posiadajac znak: O

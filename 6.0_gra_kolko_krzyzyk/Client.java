@@ -29,12 +29,12 @@ public class Client{
             while(true){
                 try{
                     line = in.readUTF();
-                    try {
-                        System.out.print("\033[H\033[2J"); 
-                        System.out.flush();
-                        new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
-                    } catch (Exception ex) {} 
+                    clearCmd();
                     System.out.println(line);
+                    if(line.contains("Wygrywa")){
+                        out.writeUTF("gg");
+                        break;
+                    }
                     
                     odp = sc.nextLine();
                     if(odp.equals("q")){
@@ -65,5 +65,12 @@ public class Client{
         }
 
         
+    }
+    public static void clearCmd(){
+        try {
+            System.out.print("\033[H\033[2J"); 
+            System.out.flush();
+            new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
+        } catch (Exception ex) {}  
     }
 }
